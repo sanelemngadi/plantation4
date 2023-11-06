@@ -1,0 +1,10 @@
+for configurations
+
+we need
+
+bank account:
+address
+email
+
+fixes
+warehouse rows and shelves must be defferent
